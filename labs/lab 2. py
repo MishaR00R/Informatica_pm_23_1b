@@ -1,1 +1,6 @@
-
+from math import *
+x = input("введите переменную a")
+b = input("введите переменную y")
+z = input("введите переменную z")
+a = abs(x**(1/5))+sin(y)/1+tan(x)-log10(1+y)
+b =
